@@ -13,7 +13,7 @@ Check out the live version of the game [here](https://naimurhasan.github.io/circ
 ![Gameplay Screenshot](screenshot.png)
 
 ## Features
-- Menu, Credits, GameOver, Win
+- Menu, Credits, Multi Level, GameOver, Win
 - Engaging gameplay that tests your reflexes
 - Smooth controls for an immersive gaming experience
 - Exciting levels with increasing difficulty
